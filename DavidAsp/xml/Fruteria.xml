@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Frutas>
+
+  <Frutas>
+
+    <FrutasId>1</FrutasId>
+    <FrutasNombre>Manzana</FrutasNombre>
+    
+  </Frutas>
+
+
+  <Frutas>
+
+    <FrutasId>2</FrutasId>
+    <FrutasNombre>Banano</FrutasNombre>
+
+  </Frutas>
+
+
+
+  <Frutas>
+
+    <FrutasId>3</FrutasId>
+    <FrutasNombre>Piña</FrutasNombre>
+
+  </Frutas>
+  
+  
+</Frutas>
